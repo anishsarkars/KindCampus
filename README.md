@@ -123,8 +123,8 @@ MIT
 
 ## 💡 Support & Contact
 - Open an issue on GitHub
-- Email: support@kindcampus.com
+- Email: hi@anishsarkar.site
 
 ---
 
-> Made with ❤️ for campus communities everywhere. 
+> Made with ❤️ by Anish for GDG On Campus. 
